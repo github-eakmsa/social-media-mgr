@@ -1,2 +1,3 @@
 /* content */
 to develop a system that can manage and make a simple usage of social media sites and apps 
+SITES like Facebook, Gmail, yahoo mail etc
